@@ -5,6 +5,8 @@ materials:
 
 arduino nano, gyro sensor mpu6050, motor servo sg90, battery 9v, cable jumper
 
+![alt text](https://github.com/jenizar/mpu6050-servo-sg90/blob/main/mpu6050_sg90.jpg)
+
 wiring:
 
 MPU6050 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arduino Nano
